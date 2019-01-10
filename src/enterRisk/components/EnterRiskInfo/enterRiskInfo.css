@@ -1,0 +1,52 @@
+.isRequired_titleSpan {
+  font-size: 12px;
+  font-family: initial;
+  font-weight: 500;
+}
+.isRequired_titleSpan::before{
+  display: inline-block;
+  margin-right: 4px;
+  content: "*";
+  font-family: SimSun;
+  line-height: 1;
+  font-size: 14px;
+  color: #f5222d;
+}
+.titleSpan {
+  font-size: 16px;
+  font-family: initial;
+  font-weight: 900;
+  margin-left: 10px;
+}
+
+.titlesName {
+  color: #323C47;
+  font-size: 14px;
+  margin-bottom: 8px
+}
+
+.no_dataInfo {
+  text-align: center;
+  border: 1px solid #e8e8e8;
+  border-radius: 4px;
+  padding-top: 30px;
+ /* height: 230px;
+  line-height: 230px;*/
+}
+.no_dataInfo_one {
+  text-align: center;
+  border-radius: 4px;
+  height: 230px;
+  line-height: 230px;
+}
+.my_info_table_info {
+  border: 1px solid #e8e8e8;
+  border-radius: 4px;
+  min-height: 200px;
+  padding-top: 10px;
+}
+.ant-tabs-nav .ant-tabs-tab {font-size: 14px;color:#323C47;font-family:PingFangSC-Regular;}
+.ant-tabs-nav .ant-tabs-tab-active {color:#4DA1FF;}
+.ant-tabs-bar {margin-bottom: 18px;}
+.my_info_table_info {border:none;padding: 0}
+.no_dataInfo {border:none;}

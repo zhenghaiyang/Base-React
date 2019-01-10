@@ -1,0 +1,85 @@
+.enterRiskContent {
+  height: 39px;
+  border-bottom: 1px solid #e5e5e5;
+  background-color: #f5f5f5;
+  padding: 0 20px;
+  overflow: hidden;
+}
+/*新增样式刘敏20180821*/
+
+.searchVerOne {line-height: 17px;}
+.searchVerOne .ant-form-item-label label {color:#637280;font-size: 12px;}
+.searchVerOne .ant-form label {font-size: 12px;}
+.searchVerOne .ant-input,.searchVerOne .ant-select {font-size: 12px;}
+.searchBtn {width:72px;height:30px;background:#4DA1FF;border-radius:4px;font-size: 12px;border:none;color: #fff}
+.searchReset {width:72px;height:30px;background:#fff;border-radius:4px;border:1px solid #C6CFD3;font-size: 12px;color: #323C47}
+.ant-table-thead > tr > th, .ant-table-tbody > tr > td {padding:14px 16px;}
+table tbody tr:nth-child(odd) {background: #fff;}
+table tbody tr:nth-child(even) {background: #FAFBFC;} 
+.ant-table-thead > tr > th {background: #EEF1F4;color: #323C47;font-size:12px;font-family:PingFangSC-Medium;}
+* {font-size:12px;}
+.ant-table {line-height: 1.0}
+.ant-form label {font-size: 12px;}
+.ant-input {font-size: 12px;}
+.ant-form-item {margin-bottom: 15px}
+.ant-table-placeholder {font-size: 12px;}
+.ant-breadcrumb-link {font-size:14px;}
+.tableTitle {
+font-size:14px;padding:19px 0;
+font-family:PingFangSC-Regular;
+color:#323C47;font-weight: 500;margin-bottom: 0}
+
+.disableClass {color: #EE6565}
+.useClass ,.agreeClass {color:#7ED321;}
+
+.stayClass {color: #FC8650} 
+
+.actionClass {color: #4DA1FF;cursor:pointer }
+
+.ant-modal-header {padding:8px 16px;background: #FAFBFC}
+.ant-modal-title {font-size: 14px;color:#323C47}
+.ant-modal-close {right: 10px;top: 10px;}
+.ant-modal-close-x {width: 12px;height: 12px;line-height: 12px;font-size: 16px;}
+
+
+.outerBody {padding:18px 18px 18px 18px}
+.bgfff {background: #fff}
+.ant-table-thead > tr, .ant-table-tbody > tr {padding:0 40px;}
+.ant-table-thead > tr > th:nth-child(1), .ant-table-tbody > tr > td:nth-child(1) {padding-left: 40px}
+.ant-table-thead > tr > th:nth-child(2), .ant-table-tbody > tr > td:nth-child(2) {padding-right: 40px}
+.height8f5 {height: 8px;background: #f5f5f5}
+.whiteTitle {font-size:14px;font-family:PingFangSC-Regular;color:#323C47;font-weight: 500;line-height: 30px}
+
+.ant-form-item-control {line-height: 30px;}
+.ant-form-item-label {line-height: 30px;text-align: right;padding-left: 20px}
+.whiteSearch {padding:14px 0;}
+
+
+.ant-pagination-total-text {font-family:PingFangSC-Regular;}
+.ant-pagination-prev, .ant-pagination-next, .ant-pagination-jump-prev, .ant-pagination-jump-next {width: 28px;height: 28px;min-width: 28px;line-height: 28px;}
+.ant-pagination-prev .ant-pagination-item-link:after, .ant-pagination-next .ant-pagination-item-link:after {height: 28px}
+.ant-pagination-item {height: 28px;min-width: 28px;line-height: 28px}
+.ant-select-selection--single {height: 30px;}
+.ant-pagination-options-quick-jumper input {height: 28px;line-height: 28px}
+.ant-pagination-prev .ant-pagination-item-link:after, .ant-pagination-next .ant-pagination-item-link:after {height: 28px;}
+.ant-select-selection__rendered {line-height: 28px;}
+.ant-modal-body {padding:18px;}
+
+
+
+.infoTable .ant-table-thead > tr > th:nth-child(1), .infoTable .ant-table-tbody > tr > td:nth-child(1) {padding-left: 18px}
+
+
+.ant-tabs.ant-tabs-card > .ant-tabs-bar .ant-tabs-tab {line-height: 35px;border:1px solid #C6CFD3;border-bottom: 1px solid #C6CFD3;margin-right:0;font-size: 14px}
+.ant-tabs.ant-tabs-card > .ant-tabs-bar .ant-tabs-tab-active {
+font-size:14px;
+font-family:PingFangSC-Regular;
+color:#4DA1FF;background: #fff;
+border:1px solid rgba(77,161,255,1);padding-bottom: 0}
+.ant-tabs-bar {border:none;}
+.ant-tabs.ant-tabs-card > .ant-tabs-bar .ant-tabs-nav-container {height: 38px;}
+.ant-tabs.ant-tabs-card > .ant-tabs-bar .ant-tabs-nav-wrap {text-align: center;}
+.ant-tabs-nav .ant-tabs-tab {margin-right: 0}
+.ant-modal-body {padding: 0}
+.desTitle {padding:18px;box-shadow:0px 2px 8px 0px rgba(37,38,94,0.1);}
+.ant-tabs {padding:18px;}
